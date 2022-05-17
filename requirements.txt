@@ -17,6 +17,7 @@ pycparser==2.21
 requests==2.27.1
 six==1.16.0
 SoundFile
+libsndfile1-dev
 speechly-api==0.7.0
 urllib3==1.26.9
 Werkzeug==2.1.2
